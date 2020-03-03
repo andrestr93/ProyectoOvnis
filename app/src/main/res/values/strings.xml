@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Juego de Start Wars Oficial</string>
+    <string name="botonjugar">Jugar</string>
+    <string name="butguardar">Guardar Nombre</string>
+    <string name="titulo">Menu de Inicio</string>
+    <string name="prefmodo">opciones de modo</string>
+    <string name="modpref">Modo noche</string>
+    <string name="modcheck">Guardar Nombre</string>
+    <string name="titulonombre">Ponga aqui su nombre</string>
+
+
+
+
+
+
+</resources>

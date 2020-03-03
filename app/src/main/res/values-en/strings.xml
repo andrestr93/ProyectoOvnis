@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Start Wars Oficial</string>
+    <string name="botonjugar">TO PLAY</string>
+    <string name="butguardar">SAVE NAME</string>
+    <string name="titulo">START MENU</string>
+    <string name="prefmodo">MODE OPTIONS</string>
+    <string name="modpref">NIGHT MODE</string>
+    <string name="modcheck">SAVE NAME</string>
+    <string name="titulonombre">put your name here</string>
+
+
+</resources>
