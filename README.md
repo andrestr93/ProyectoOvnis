@@ -1,5 +1,4 @@
 # ProyectoOvnis
 
-[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
+[![Alt text for your video](https://youtu.be/173Mw0vYPuY)
 
-Fuente: https://www.iteramos.com/pregunta/16559/-como-incrustar-un-video-en-github-readmemd-
