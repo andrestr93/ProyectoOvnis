@@ -1,4 +1,4 @@
 # ProyectoOvnis
 
-[![Alt text for your video](https://youtu.be/173Mw0vYPuY)
+[![Alt text for your video](https://www.youtube.com/watch?v=173Mw0vYPuY)
 
